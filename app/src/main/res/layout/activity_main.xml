@@ -10,7 +10,7 @@
         android:id="@+id/id_editText"
         android:layout_width="120dp"
         android:layout_height="51dp"
-        android:layout_marginTop="200dp"
+        android:layout_marginTop="100dp"
         android:layout_marginBottom="8dp"
         android:ems="10"
         android:hint="ID"
